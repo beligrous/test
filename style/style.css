@@ -1,4 +1,11 @@
-.title {
+.main {
+  flex-direction: row;
+}
+
+.aside {
+  background-color: blue;
+}
+. .title {
   color: gray;
   background: red;
 }
