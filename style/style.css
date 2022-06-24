@@ -1,8 +1,10 @@
 .main {
-  flex-direction: row;
+  display: flex;
+  flex-direction: row-reverse;
 }
 
 .aside {
+  width: 500px;
   background-color: blue;
 }
 . .title {
